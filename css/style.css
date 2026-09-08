@@ -5,14 +5,21 @@ text-align:center;
 margin:0;
 padding:0;
 }
-h1{
+header{
 background-color:#24292f;
 color:white;
 padding:20px;
 }
-p{
-font-size:18px;
-text-align:left;
+.box{
+margin-top:80px;
+}
+.box p{
+font-size:28 px
+font-weight:bold;
+}
+.small { font-size:16px !important;
+font-weight:normal !important;
+color : gray;
 }
 button{
 background-color:#2da44f;
@@ -21,6 +28,7 @@ border:none;
 padding:10px 20px;
 border-radius:8px;
 }
+
 
 
 
